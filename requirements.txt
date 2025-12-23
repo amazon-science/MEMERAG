@@ -57,7 +57,7 @@ jsonpointer==3.0.0
     # via jsonpatch
 langchain-aws==0.2.13
     # via -r requirements.in
-langchain-core==0.3.39
+langchain-core==0.3.81
     # via
     #   -r requirements.in
     #   langchain-aws
